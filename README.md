@@ -15,8 +15,7 @@ pip2 install mechanize
 pip2 install request
 https://github.com/Venom-Hunter/Venom-Hunter
 
-python2 Huntter404.py
-
+python2 Hunter_Robin.py
 
 Tool Username : Nock Me Fb
 Tool Password : Nock Me Fb
