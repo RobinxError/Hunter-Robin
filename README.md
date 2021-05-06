@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Venom-Hunter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bangladesh Facebook Cloning Tool
 
-<!---
-Venom-Hunter/Venom-Hunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install git
+
+pip2 install mechanize
+
+pip2 install requests
+
+git clone https://github.com/hearthackerBabar/BangladeshFB
+
+cd BangladeshFB
+
+python2 Huntter404.py
+
+
+Tool Username : Huntter
+Tool Password : Facebook
+
+my whatsapp Number : +923000223253
