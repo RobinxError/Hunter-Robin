@@ -13,7 +13,7 @@ pkg install git
 pip2 install mechanize
 
 pip2 install request
-https://github.com/Venom-Hunter/Venom-Hunter
+git clone https://github.com/Venom-Hunter/Hunter-Robin
 
 python2 Hunter_Robin.py
 
