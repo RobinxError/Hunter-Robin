@@ -18,7 +18,7 @@ https://github.com/Venom-Hunter/Venom-Hunter
 python2 Huntter404.py
 
 
-Tool Username : Huntter
-Tool Password : Facebook
+Tool Username : Nock Me Fb
+Tool Password : Nock Me Fb
 
 
